@@ -42,4 +42,8 @@ Pedido em linguagem natural → fonte oficial (SICONFI, DATASUS, INEP…) → pr
 
 ### 📫 Contato
 
-Caruaru-PE → Curitiba-PR · [Vitrine de projetos](https://github.com/caiooribas20-sys/Projetos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-caio--ribas--dados-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-ribas-dados)
+[![Instagram](https://img.shields.io/badge/Instagram-@ribas.analytics-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ribas.analytics)
+[![Demo](https://img.shields.io/badge/DataHub-demo%20ao%20vivo-14b8a6?style=flat-square)](https://datahub-eficiencia-pe.lovable.app)
+
+Caruaru-PE → Curitiba-PR · [Vitrine de projetos](https://github.com/caiooribas20-sys/Projetos) · **Ribas Analytics:** economia explicada com dados no Instagram
